@@ -7,16 +7,19 @@
 Linear regression is a fundamental statistical and machine learning technique that models the relationship between a scalar dependent variable and one or more explanatory variables (or independent variables). This project aims to provide a comprehensive analysis of both simple and multiple linear regression using Python.
 
 ## Project Structure
+```plaintext
 Linear-regression-analysis/
 │
 ├── data/
-│ └── dataset.csv # Dataset for the regression analysis
+│   └── dataset.csv               # Dataset for the regression analysis
 │
 ├── src/
-│ ├── linear_regression.py # Main script for implementing the regression model
-│ └── utils.py # Utility functions to support the regression analysis
+│   ├── linear_regression.py      # Main script for implementing the regression model
+│   └── utils.py                  # Utility functions to support the regression analysis
 │
 └── README.md
+```
+
 
 ## Features
 
